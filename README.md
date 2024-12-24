@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project serves to conduct a general analysis of Airbnb data sourced from InsideAirbnb as well as 2 other datasets related to Crime or Income. We are looking to create models to predicted either price/estimated number of bookings and build a classification model for whether a host is a superhost. We also make use of Feature Engineering techniques in hopes of adding useful predictor variables using the non-numerical/non-categorical columns from the datasets. An example of this is using the text from airbnb reviews to create a average review sentiment metric for listings.
+This project serves to conduct a general analysis of Airbnb data sourced from InsideAirbnb as well as 2 other datasets related to Crime or Income. We are looking to create models to predict estimated number of bookings and build a classification model for whether a host is a superhost. We also make use of Feature Engineering techniques in hopes of adding useful predictor variables using the non-numerical/non-categorical columns from the datasets. An example of this is using the text from airbnb reviews to create a average review sentiment metric for listings.
 
 ## Datasets
 
