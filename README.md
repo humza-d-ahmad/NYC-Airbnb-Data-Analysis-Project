@@ -1,4 +1,4 @@
-# STAT 447 Project: Airbnb Dataset Analysis
+# Airbnb Dataset Analysis Project
 
 ## Overview
 
@@ -19,14 +19,26 @@ Soured from Kaggle: https://www.kaggle.com/datasets/jinbonnie/condominium-compar
 
 ## Repository Index
 
-`Datasets` : Directory containing the datasets, inside there is a sub-directory for each dataset, and a subset of reviews data is included for running the notebooks.  
-`PreProcessingAirbnb.ipynb` : Notebook that serves to combine, clean and preprocess the `listings.csv` datasets from InsideAirbnb  
+`Final Project Report.pdf`: pdf version of final project report
+
+`Datasets` : Directory containing the datasets, inside there is a sub-directory for each dataset, and a subset of reviews data is included for running the notebooks
+
+`PreProcessingAirbnb.ipynb` : Notebook that serves to combine, clean and preprocess the `listings.csv` datasets from InsideAirbnb
+
 `FeatureEngineeringAirbnb.ipynb`: Notebook that does Feature Engineering based on the text based columns (such as reviews & descriptions) as well as converting other columns (such as amenities & host verifications) to categorical variables  
+
 `EdaAirbnb.ipynb` : Notebook for exploratory Data Analysis of the Airbnb Dataset   
-`EdaCrime.ipynb`: Notebook for exploratory Data Analysis of the Crime dataset  
+
+`EdaCrime.ipynb`: Notebook for exploratory Data Analysis of the Crime dataset 
+
 `EdaIncome.ipynb`: Notebook for exploratory Data Analysis of Income Dataset  
+
 `SuperhostModeling.ipynb`: Notebook for classifiying superhost status  
-`ModelingNumBookings.ipynb`: Notebook for regression on the number of bookings  
+
+`ModelingNumBookings.ipynb`: Notebook for regression on the number of bookings 
+
 `airbnb_map.html`: Interactive Html version of the map from the Airbnb EDA
+
 `crimema.html`: Interactive Html version of the map from the Crime EDA
-`Slideshow_presentation.pdf`: pdf version of slides used in class
+
+`Slideshow_presentation.pdf`: pdf version of presentation slides
